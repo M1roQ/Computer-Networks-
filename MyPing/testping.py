@@ -7,7 +7,7 @@ def myping(addr):
 
 
 addresses = ['google.com', 'ya.ru', 'nsu.ru', 'pinterest.com', 'ozon.ru',
-             'behance.net', 'hanbook.com', 'songsterr.com', 'muztorg.ru', 'doctorhouse.su']
+             'behance.net', 'hanbook.com', 'songsterr.com', 'muzton.com', 'doctorhouse.su']
 
 with open("ping_info.csv", mode="w+") as out_file:
     file_writer = csv.writer(out_file, delimiter=",", lineterminator="\r")
