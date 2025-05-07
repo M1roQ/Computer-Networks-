@@ -1,9 +1,10 @@
-from ping3 import ping
 import csv
 
+from ping3 import ping
+
+
 def myping(addr):
-    response = ping(addr, unit='ms')
-    return response
+    return ping(addr, unit='ms')
 
 
 addresses = ['google.com', 'ya.ru', 'nsu.ru', 'pinterest.com', 'ozon.ru',

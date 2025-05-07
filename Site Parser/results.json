@@ -1,0 +1,338 @@
+[
+    {
+        "id": 1,
+        "name": "Omni JM-40FM BB",
+        "price": 18990.0,
+        "article": "97540",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/omni_jm_40fm_bb"
+    },
+    {
+        "id": 2,
+        "name": "Omni JM-20 BK",
+        "price": 24990.0,
+        "article": "97535",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/omni_jm_20_bk"
+    },
+    {
+        "id": 3,
+        "name": "Omni S10-ST WH",
+        "price": 13990.0,
+        "article": "97533",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/omni_s10_st_wh"
+    },
+    {
+        "id": 4,
+        "name": "Omni S10-ST BK",
+        "price": 19990.0,
+        "article": "97532",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/omni_s10_st_bk"
+    },
+    {
+        "id": 5,
+        "name": "Sire L3 P90 TVY",
+        "price": 46990.0,
+        "article": "97077",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/sire_l3_p90_tvy"
+    },
+    {
+        "id": 6,
+        "name": "Cort KX300-OPCB",
+        "price": 42990.0,
+        "article": "94082",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/cort_kx300_opcb"
+    },
+    {
+        "id": 7,
+        "name": "Sire S3 TS",
+        "price": 45990.0,
+        "article": "95203",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/sire_s3_ts"
+    },
+    {
+        "id": 8,
+        "name": "Sire S3 BK",
+        "price": 45990.0,
+        "article": "95202",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/sire_s3_bk"
+    },
+    {
+        "id": 9,
+        "name": "Sire S3 VWH",
+        "price": 29990.0,
+        "article": "95204",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/sire_s3_vwh"
+    },
+    {
+        "id": 10,
+        "name": "Sire T3 TS",
+        "price": 29990.0,
+        "article": "95214",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/sire_t3_ts"
+    },
+    {
+        "id": 11,
+        "name": "Sire T3 VWH",
+        "price": 45990.0,
+        "article": "95216",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/sire_t3_vwh"
+    },
+    {
+        "id": 12,
+        "name": "Mooer GTRS S800 Aurora Blue",
+        "price": 49990.0,
+        "article": "95976",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/mooer_gtrs_s800_aurora_blue"
+    },
+    {
+        "id": 13,
+        "name": "Solar AB2.7C",
+        "price": 81990.0,
+        "article": "93486",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/solar_ab2_7c"
+    },
+    {
+        "id": 14,
+        "name": "S by Solar AB4.6FRC",
+        "price": 38990.0,
+        "article": "95547",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/s_by_solar_ab4_6frc"
+    },
+    {
+        "id": 15,
+        "name": "S by Solar TB4.61W",
+        "price": 24990.0,
+        "article": "95550",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/s_by_solar_tb4_61w"
+    },
+    {
+        "id": 16,
+        "name": "Fernandes APG STD 16 BLK",
+        "price": 49990.0,
+        "article": "93357",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/fernandes_apg_std_16_blk"
+    },
+    {
+        "id": 17,
+        "name": "Fernandes APG STD 16 VMB",
+        "price": 65990.0,
+        "article": "93359",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/fernandes_apg_std_16_vmb"
+    },
+    {
+        "id": 18,
+        "name": "Fernandes TE-1Z BLK",
+        "price": 29990.0,
+        "article": "94444",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/fernandes_te_1z_blk"
+    },
+    {
+        "id": 19,
+        "name": "Solar AB2.6C",
+        "price": 81990.0,
+        "article": "91546",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/solar_ab2_6c"
+    },
+    {
+        "id": 20,
+        "name": "Mooer GTRS S800 Blue",
+        "price": 54990.0,
+        "article": "94264",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/mooer_gtrs_s800_blue"
+    },
+    {
+        "id": 21,
+        "name": "Mooer GTRS S801 Gold",
+        "price": 54990.0,
+        "article": "94262",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/mooer_gtrs_s801_gold"
+    },
+    {
+        "id": 22,
+        "name": "S by Solar VB4.6W",
+        "price": 34990.0,
+        "article": "95549",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/s_by_solar_vb4_6w"
+    },
+    {
+        "id": 23,
+        "name": "S by Solar AB4.7C",
+        "price": 31990.0,
+        "article": "93391",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/s_by_solar_ab4_7c"
+    },
+    {
+        "id": 24,
+        "name": "S by Solar TB4.61C",
+        "price": 24990.0,
+        "article": "93397",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/s_by_solar_tb4_61c"
+    },
+    {
+        "id": 25,
+        "name": "S by Solar EB4.6W",
+        "price": 32990.0,
+        "article": "93396",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/s_by_solar_eb4_6w"
+    },
+    {
+        "id": 26,
+        "name": "S by Solar EB4.6C",
+        "price": 32990.0,
+        "article": "93395",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/s_by_solar_eb4_6c"
+    },
+    {
+        "id": 27,
+        "name": "S by Solar VB4.6C",
+        "price": 34990.0,
+        "article": "93394",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/s_by_solar_vb4_6c"
+    },
+    {
+        "id": 28,
+        "name": "S by Solar SB4.6FRFBR",
+        "price": 41990.0,
+        "article": "93393",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/s_by_solar_sb4_6frfbr"
+    },
+    {
+        "id": 29,
+        "name": "S by Solar AB4.6W",
+        "price": 24990.0,
+        "article": "93390",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/s_by_solar_ab4_6w"
+    },
+    {
+        "id": 30,
+        "name": "S by Solar AB4.6C",
+        "price": 24990.0,
+        "article": "93389",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/s_by_solar_ab4_6c"
+    },
+    {
+        "id": 31,
+        "name": "Sire S7 TS",
+        "price": 72990.0,
+        "article": "91091",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/sire_s7_ts"
+    },
+    {
+        "id": 32,
+        "name": "Sire S7 AWH",
+        "price": 72990.0,
+        "article": "91090",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/sire_s7_awh"
+    },
+    {
+        "id": 33,
+        "name": "Sire T7 FM NT",
+        "price": 77990.0,
+        "article": "91099",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/sire_t7_fm_nt"
+    },
+    {
+        "id": 34,
+        "name": "Omni TE-2S SB",
+        "price": 10990.0,
+        "article": "92297",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/omni_te_2s_sb"
+    },
+    {
+        "id": 35,
+        "name": "NF Guitars SB-22 (L-G1) 3TS",
+        "price": 7990.0,
+        "article": "92709",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/nf_guitars_sb_22_l_g1_3ts"
+    },
+    {
+        "id": 36,
+        "name": "NF Guitars SB-22 (L-G1) BL",
+        "price": 7990.0,
+        "article": "92708",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/nf_guitars_sb_22_l_g1_bl"
+    },
+    {
+        "id": 37,
+        "name": "NF Guitars SB-22 (L-G1) RD",
+        "price": 11990.0,
+        "article": "92707",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/nf_guitars_sb_22_l_g1_rd"
+    },
+    {
+        "id": 38,
+        "name": "NF Guitars SB-22 (L-G1) BK",
+        "price": 11990.0,
+        "article": "92705",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/nf_guitars_sb_22_l_g1_bk"
+    },
+    {
+        "id": 39,
+        "name": "NF Guitars GR-22 (L-G3) MBL",
+        "price": 15990.0,
+        "article": "92710",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/nf_guitars_gr_22_l_g3_mbl"
+    },
+    {
+        "id": 40,
+        "name": "NF Guitars GR-22 (L-G3) MS/ ML",
+        "price": 15990.0,
+        "article": "92713",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/nf_guitars_gr_22_l_g3_ms_ml"
+    },
+    {
+        "id": 41,
+        "name": "Fernandes LE-1Z HH CW",
+        "price": 35990.0,
+        "article": "90781",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/fernandes_le_1z_hh_cw"
+    },
+    {
+        "id": 42,
+        "name": "Fernandes LE-1Z HH BLK",
+        "price": 35990.0,
+        "article": "90782",
+        "availability": "В наличии",
+        "link": "https://mirm.ru/catalog/products/fernandes_le_1z_hh_blk"
+    }
+]
