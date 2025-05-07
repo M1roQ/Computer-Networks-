@@ -8,9 +8,9 @@ class PSQLwriter:
     def __init__(self, user, database, table):
         try:
             self.connection = psycopg2.connect(
-                dbname="products_db",
+                dbname="dbname",
                 user="postgres",
-                password="BVal41790",
+                password="pass",
                 host="localhost",
                 port="5432"
             )
